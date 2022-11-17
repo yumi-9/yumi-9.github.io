@@ -12,7 +12,7 @@ url: http://starry99.github.io/catbook # the base hostname & protocol for your s
 permalink: /:year-:month/:title
 timezone:
 
-favicon: /assets/img/favicon.ico
+favicon: /assets/img/dino.png
 
 google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
@@ -24,7 +24,7 @@ user:
   pic: /assets/img/dino.png
   picAlt: "yumi"
   job: designer
-  aboutme: true # comment this out if you don't need the 'about' page.
+  aboutme: False # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
