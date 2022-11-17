@@ -47,3 +47,15 @@ show_drafts: null
 limit_posts: 0
 future:      false
 unpublished: false
+
+
+
+
+tipue_search:
+     include:
+         pages: false
+         collections: []
+     exclude:
+         files: [search.html, index.html, tags.html]
+         categories: []
+         tags: []
